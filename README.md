@@ -1,4 +1,4 @@
-[(![github-header-image (1)](https://github.com/adarsh2508singh/adarsh2508singh/assets/72906969/d1bc3ab5-abd6-4137-9a36-ead310ec7df0)]
+[![github-header-image (1)](https://github.com/adarsh2508singh/adarsh2508singh/assets/72906969/d1bc3ab5-abd6-4137-9a36-ead310ec7df0)]()
 <h1 align="center">Hi 👋, I'm Adarsh Singh</h1>
 <h3 align="center">A passionate Full Stack MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
